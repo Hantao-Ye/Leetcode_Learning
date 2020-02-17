@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "cSpell.words": [
+        "atoi",
+        "leetcode",
+        "nums",
+        "strs"
+    ]
+}
