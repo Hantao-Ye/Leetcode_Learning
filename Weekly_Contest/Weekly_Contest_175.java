@@ -1,3 +1,5 @@
+package Weekly_Contest;
+
 import java.util.*;
 
 class Solution {
@@ -53,31 +55,32 @@ class Solution {
         }
         return output / 2;
     }
-    
+
     public int maxStudents(char[][] seats) {
         int output = 0;
 
         return output;
     }
 }
+
 class TweetCounts {
 
     public TweetCounts() {
-        
+
     }
-    
+
     public void recordTweet(String tweetName, int time) {
-        
+
     }
-    
-    // public List<Integer> getTweetCountsPerFrequency(String freq, String tweetName, int startTime, int endTime) {
-        
+
+    // public List<Integer> getTweetCountsPerFrequency(String freq, String
+    // tweetName, int startTime, int endTime) {
+
     // }
 }
 
 /**
- * Your TweetCounts object will be instantiated and called as such:
- * TweetCounts obj = new TweetCounts();
- * obj.recordTweet(tweetName,time);
- * List<Integer> param_2 = obj.getTweetCountsPerFrequency(freq,tweetName,startTime,endTime);
+ * Your TweetCounts object will be instantiated and called as such: TweetCounts
+ * obj = new TweetCounts(); obj.recordTweet(tweetName,time); List<Integer>
+ * param_2 = obj.getTweetCountsPerFrequency(freq,tweetName,startTime,endTime);
  */

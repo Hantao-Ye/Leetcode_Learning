@@ -1,3 +1,5 @@
+package Weekly_Contest;
+
 import java.util.*;
 
 class Solution {
