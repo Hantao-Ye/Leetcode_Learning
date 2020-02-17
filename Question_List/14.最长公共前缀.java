@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         StringBuffer sBuffer = new StringBuffer();

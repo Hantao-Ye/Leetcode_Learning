@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // merge and select归并排序，时间复杂度为O(m+n),未满足题意

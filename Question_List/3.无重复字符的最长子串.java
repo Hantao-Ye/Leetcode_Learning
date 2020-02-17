@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         /*

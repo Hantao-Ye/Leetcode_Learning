@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 class Solution {
     public String longestPalindrome(String s) {
         if (s.equals(""))

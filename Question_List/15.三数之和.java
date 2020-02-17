@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 import java.util.*;
 
 class Solution {

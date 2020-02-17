@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package Question_List;
 class Solution {
     public boolean isMatch(String s, String p) {
         int[][] array = new int[s.length()][p.length()];

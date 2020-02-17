@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-
+package Question_List;
 class ListNode {
     int val;
     ListNode next;

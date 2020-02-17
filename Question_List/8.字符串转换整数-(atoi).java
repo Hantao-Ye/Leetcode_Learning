@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-
+package Question_List;
 class Solution {
     public int myAtoi(String str) {
         char[] str_array = str.toCharArray();
