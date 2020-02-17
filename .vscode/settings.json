@@ -6,9 +6,6 @@
         "**/.factorypath": true
     },
     "cSpell.words": [
-        "atoi",
-        "leetcode",
-        "nums",
-        "strs"
+        "leetcode"
     ]
 }
