@@ -7,15 +7,15 @@
 // @lc code=start
 // package Question_List;
 package Question_List;
-import java.util.*;
 
+import java.util.*;
 
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int len = nums.length;
         Arrays.sort(nums);
         int output = nums[0] + nums[1] + nums[2];
-        for (int i = 0; i < len-2; i++) {
+        for (int i = 0; i < len - 2; i++) {
             int L = i + 1;
             int R = len - 1;
             while (L < R) {
