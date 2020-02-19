@@ -27,24 +27,16 @@ class Solution {
                         sign--;
                         break;
                     }
-                    /*
-                     * else { continue; }
-                     */
                 } else if (array[i] == ']') {
                     if (pop != '[') {
                         sign--;
                         break;
-                    } /*
-                       * else { if (!iStack.isEmpty()) if (iStack.peek() == '(') { sign--; break; } }
-                       */
+                    } 
                 } else {
                     if (pop != '{') {
                         sign--;
                         break;
-                    } /*
-                       * else { if (!iStack.isEmpty()) if (iStack.peek() == '(' || iStack.peek() ==
-                       * '[') { sign--; break; } }
-                       */
+                    } 
                 }
 
             }
